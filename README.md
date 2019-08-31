@@ -15,7 +15,7 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 ---
 
-**Título**: [Luanda] Meetup Front-End
+**Título**: [Luanda] Meetup Back-End
 
 **Data**: 10/10/2019 19h30 - 21h
 
